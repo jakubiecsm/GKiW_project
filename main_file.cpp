@@ -13,6 +13,7 @@
 #include "shaderprogram.h"
 #include "myCube.h"
 #include "myTeapot.h"
+#include "Camera.h"
 
 float speed_x=0;
 float speed_y=0;

@@ -30,7 +30,7 @@
     <ClInclude Include="myTeapot.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Downloads\Camera.h">
+    <ClInclude Include="Camera.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
   </ItemGroup>
@@ -44,7 +44,7 @@
     <ClCompile Include="shaderprogram.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\Camera.cpp">
+    <ClCompile Include="Camera.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
